@@ -4,7 +4,7 @@
 
 #### Open source 🤝
 Will be happy to join and help with your opensource Node.js package\application.
-Currently I'm contributing to [@nodejs](https://github.com/nodejs/node) and [@express](https://github.com/expressjs) repos.
+Currently I'm contributing to [@nodejs](https://github.com/nodejs) and [@express](https://github.com/expressjs) repos.
 
 #### The Slice of Knowledge 🧠
 - JavaScript
