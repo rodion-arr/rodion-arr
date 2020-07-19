@@ -2,8 +2,8 @@
 
 💻 I'm full-stack developer with Tech leading experience. Main interest: JavaScript backend\frontend development.
 
-#### Open source 🤝
-Will be happy to join and help with your opensource Node.js package\application.
+### Open source 🤝
+Will be happy to join and help with your open source Node.js package\application.
 Currently I'm contributing to [@nodejs](https://github.com/nodejs) and [@express](https://github.com/expressjs) repos.
 
 #### The Slice of Knowledge 🧠
