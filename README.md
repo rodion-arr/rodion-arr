@@ -1,4 +1,4 @@
-<p align="center"><img src="./logo.svg" width="200px" height="45px"/></p>
+<p align="center"><img src="https://github.com/rodion-arr/rodion-arr/blob/master/logo.svg" width="200px" height="45px"/></p>
 
 💻 My name's Rodion. I'm full-stack developer with Tech leading experience. Main interest: JavaScript backend\frontend development.
 
