@@ -1,12 +1,18 @@
-### Hi there 👋
+<p align="center"><img src="./logo.svg" width="200px" height="45px"/></p>
 
-💻 I'm full-stack developer with Tech leading experience. Main interest: JavaScript backend\frontend development.
+💻 My name's Rodion. I'm full-stack developer with Tech leading experience. Main interest: JavaScript backend\frontend development.
 
 ### Open source 🤝
+
+- Member of [Node.js Package Maintenance](https://github.com/nodejs/package-maintenance) Working Group
+- Member of [@pkgjs](https://github.com/pkgjs) organization
+
+Currently I'm actively contributing to [@nodejs](https://github.com/nodejs) and [@expressjs](https://github.com/expressjs) repos.
+
 Will be happy to join and help with your open source Node.js package\application.
-Currently I'm contributing to [@nodejs](https://github.com/nodejs) and [@express](https://github.com/expressjs) repos.
 
 #### The Slice of Knowledge 🧠
+
 - JavaScript
   - Nodejs: Native modules (http, cluster, fs, events, streams), Express, MongoDB, TypeORM, Socket.io.
   - Testing: Jest, Mocha.
