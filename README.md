@@ -16,7 +16,7 @@ Will be happy to join and help with your open source Node.js package\application
 - JavaScript
   - Nodejs: Native modules (http, cluster, fs, events, streams), Express, MongoDB, TypeORM, Socket.io.
   - Testing: Jest, Mocha.
-  - Frontend: Angular 2+, VueJS, AngularJS.
+  - Frontend: Angular 2+, React, VueJS, AngularJS.
 - PHP: Laravel, Symfony components, PHPUnit, Mysql
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodionabdurakhimov/) or tag me (@rodion-arr) in GitHub
