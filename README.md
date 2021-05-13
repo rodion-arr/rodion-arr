@@ -6,17 +6,20 @@
 
 - Member of [Node.js Package Maintenance](https://github.com/nodejs/package-maintenance) Working Group
 - Member of [@pkgjs](https://github.com/pkgjs) organization
+- Member of [Node.js Website redesign](https://github.com/nodejs/nodejs.dev) Working Group
 
-Currently I'm actively contributing to [@nodejs](https://github.com/nodejs) and [@expressjs](https://github.com/expressjs) repos.
-
-Will be happy to join and help with your open source Node.js package\application.
+You can find my contributions by next links:
+- [nodejs.dev](https://github.com/nodejs/nodejs.dev/commits?author=rodion-arr)
+- [pkgjs/wiby](https://github.com/pkgjs/wiby/commits?author=rodion-arr)
+- [pkgjs/support](https://github.com/pkgjs/support/commits?author=rodion-arr)
+- [MEAN-stack](https://github.com/rodion-arr/js-fullstack-practice/commits?author=rodion-arr)
 
 #### The Slice of Knowledge 🧠
 
-- JavaScript
+- JavaScript\Typescript
   - Nodejs: Native modules (http, cluster, fs, events, streams), Express, MongoDB, TypeORM, Socket.io.
   - Testing: Jest, Mocha, Node-Tap, Sinon.js.
-  - Frontend: Angular 2+, React, VueJS, AngularJS.
+  - Frontend: React ecosystem (React, Router, Redux, SSR), Loadable components, Inversify.js, Custom Webpack configs.
 - PHP: Laravel, Symfony components, PHPUnit, Mysql
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodionabdurakhimov/) or tag me (@rodion-arr) in GitHub
