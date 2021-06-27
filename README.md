@@ -13,6 +13,7 @@ You can find my contributions by next links:
 - [pkgjs/wiby](https://github.com/pkgjs/wiby/commits?author=rodion-arr)
 - [pkgjs/support](https://github.com/pkgjs/support/commits?author=rodion-arr)
 - [MEAN-stack](https://github.com/rodion-arr/js-fullstack-practice/commits?author=rodion-arr)
+- [react-cli](https://github.com/rodion-arr/react-cli/commits?author=rodion-arr)
 
 #### The Slice of Knowledge 🧠
 
