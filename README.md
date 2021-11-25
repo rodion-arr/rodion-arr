@@ -10,17 +10,11 @@
 
 You can find my contributions by next links:
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev/commits?author=rodion-arr)
+- [Nest.js starter kit](https://github.com/rodion-arr/nestjs-starter-kit)
 - [pkgjs/wiby](https://github.com/pkgjs/wiby/commits?author=rodion-arr)
 - [pkgjs/support](https://github.com/pkgjs/support/commits?author=rodion-arr)
 - [MEAN-stack](https://github.com/rodion-arr/js-fullstack-practice/commits?author=rodion-arr)
 - [react-cli](https://github.com/rodion-arr/react-cli/commits?author=rodion-arr)
-
-#### The Slice of Knowledge 🧠
-
-- JavaScript\Typescript
-  - Nodejs: Native modules (http, cluster, fs, events, streams), Express, MongoDB, TypeORM, Socket.io.
-  - Testing: Jest, Mocha, Node-Tap, Sinon.js.
-  - Frontend: React ecosystem (React, Router, Redux, SSR), Loadable components, Inversify.js, Custom Webpack configs.
-- PHP: Laravel, Symfony components, PHPUnit, Mysql
+- [React/Typescript/Redux/BEM](https://github.com/rodion-arr/starwars-react-app)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodionabdurakhimov/) or tag me (@rodion-arr) in GitHub
