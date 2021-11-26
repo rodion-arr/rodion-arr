@@ -17,4 +17,4 @@ You can find my contributions by next links:
 - [react-cli](https://github.com/rodion-arr/react-cli/commits?author=rodion-arr)
 - [React/Typescript/Redux/BEM](https://github.com/rodion-arr/starwars-react-app)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodionabdurakhimov/) or tag me (@rodion-arr) in GitHub
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodionabdurakhimov/) or tag me (@rodion-arr) in GitHub
