@@ -1,6 +1,12 @@
 <p align="center"><img src="https://github.com/rodion-arr/rodion-arr/blob/master/logo.svg" width="200px" height="45px"/></p>
 
-💻 My name's Rodion. I'm full-stack developer with Tech leading experience. Main interest: JavaScript backend\frontend development.
+💻 My name's Rodion. I'm software engineer from Kyiv, Ukraine 🇺🇦. Main interest: JavaScript backend\frontend development.
+
+### Support Ukraine 🇺🇦
+
+Right now, my peaceful country attacked by neighborhood, without reason.
+
+I call everyone to visit https://war.ukraine.ua/ and familiarize yourself with the situation. Any support is much-much appreciated either this is a [donation](https://war.ukraine.ua/donate/) or just [sharing verified news](https://war.ukraine.ua/support-ukraine/).
 
 ### Open source 🤝
 
