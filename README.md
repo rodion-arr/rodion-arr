@@ -13,6 +13,7 @@ I call everyone to visit https://war.ukraine.ua/ and familiarize yourself with t
 - Member of [Node.js Package Maintenance](https://github.com/nodejs/package-maintenance) Working Group
 - Member of [@pkgjs](https://github.com/pkgjs) organization
 - Member of [Node.js Website redesign](https://github.com/nodejs/nodejs.dev) Working Group
+- Articles writer https://rodion-blog.tech
 
 You can find my contributions by next links:
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev/commits?author=rodion-arr)
