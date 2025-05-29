@@ -8,13 +8,6 @@ Right now, my peaceful country attacked by neighborhood, without reason.
 
 I call everyone to visit https://war.ukraine.ua/ and familiarize yourself with the situation. Any support is much-much appreciated either this is a [donation](https://war.ukraine.ua/donate/) or just [sharing verified news](https://war.ukraine.ua/support-ukraine/).
 
-### Open source 🤝
-
-- Member of [Node.js Package Maintenance](https://github.com/nodejs/package-maintenance) Working Group
-- Member of [@pkgjs](https://github.com/pkgjs) organization
-- Member of [Node.js Website Team](https://github.com/nodejs/nodejs.org) Working Group
-- Articles writer https://rodion-blog.tech
-
 You can find my contributions by next links:
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev/commits?author=rodion-arr)
 - [Nest.js starter kit](https://github.com/rodion-arr/nestjs-starter-kit)
